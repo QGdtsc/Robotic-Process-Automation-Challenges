@@ -1,6 +1,6 @@
 # Robotic_Process_Automation_Challenges
 
-Propositions de solutions à deux challenges de robotic process automation disponibles sur https://www.rpachallenge.com/ .
+Propositions de solutions pour deux challenges de robotic process automation disponibles sur https://www.rpachallenge.com/ .
 
 <pre>
 
